@@ -8,6 +8,7 @@
       :placeholder="placeholder"
       class="emojipicker-area"
       contenteditable="true"
+      spellcheck="true"
       tabindex="0"
       autocomplete="off"
       autocorrect="off"
