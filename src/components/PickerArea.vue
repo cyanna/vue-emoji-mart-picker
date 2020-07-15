@@ -9,7 +9,6 @@
       class="emojipicker-area"
       contenteditable="true"
       tabindex="0"
-      spellcheck="false"
       autocomplete="off"
       autocorrect="off"
       autocapitalize="off"
